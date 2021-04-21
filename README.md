@@ -1,10 +1,10 @@
 # jpa03-TranNicholas
 
-Repo: https://ucsb-cs156-s21/jpa03-TranNicholas
+Repo: https://github.com/ucsb-cs156-s21/jpa03-TranNicholas
 
 On Heroku: https://jpa03-nicholastran.herokuapp.com
 
-On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-TranNicholas
+On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-TranNicholas
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-TranNicholas/branch/main/graph/badge.svg?token=SCF9eQN310)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-TranNicholas)
 
